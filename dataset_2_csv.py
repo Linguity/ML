@@ -1,11 +1,11 @@
 from csv import writer
 import os
 i=1
-with open('dataset.csv','a') as csv:
+with open('test.csv','a') as csv:
     writer_object = writer(csv)
     writer_object.writerow(['no','wavpath','transcript'])
     
-    folder_path = 'new_dataset'
+    folder_path = 'dataset/TEST'
     for folder in os.listdir(folder_path):
         folder1 = os.path.join(folder_path,folder)
         for index, file in enumerate( os.listdir(folder1)):
