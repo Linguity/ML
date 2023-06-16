@@ -1,3 +1,3 @@
 # ML
-ML Selling and Pronunciation
+ML Spelling and Pronunciation
 Download the Pronunciation model from release
