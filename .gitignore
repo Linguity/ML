@@ -1,4 +1,4 @@
 /pronunciation/asr-30epoch-full_model
 .vscode
 .prettierrc
-api_spelling/__pycache__
+/api_spelling/__pycache__
