@@ -18,7 +18,29 @@ The following are the team members involved in the development of this project:
 | Maharani Yr                             | C176DSY0806 | Cloud Computing    | DevOps Engineer                             | [LinkedIn](https://www.linkedin.com/in/maharani-yr-96743825a/)                                                            |
 | Sherly Fauziyah Syaharani               | C242DSY1915 | Cloud Computing    | DevOps Engineer                             | [LinkedIn](https://www.linkedin.com/in/sherlyfauz/)                                                                       |
 | Diinggo Sirojudin                       | A176DSX1160 | Mobile Development | Android Developer                           | [LinkedIn](https://www.linkedin.com/in/diinggo/)                                                                          |
-| Bayu Nugroho                            | A062DKX4004 | Mobile Development | Android Developer                           | [LinkedIn](https://www.linkedin.com/in/bayu-nugroho-6080861ba/)           
+| Bayu Nugroho                            | A062DKX4004 | Mobile Development | Android Developer                           | [LinkedIn](https://www.linkedin.com/in/bayu-nugroho-6080861ba/) 
+
+## Library Used
+
+- os
+- Flask
+- numpy
+- tensorflow
+- keras from tensorflow
+- requests
+- speech_recognition
+- fuzzywuzzy
+- wer from jiwer
+- matplotlib
+- pandas
+
+
+## IDE Used
+
+- Google Colab
+- Visual Studio Code
+- Kaggle
+
 
 ## How To Use
 Below are the directory structure:
