@@ -33,6 +33,9 @@ The following are the team members involved in the development of this project:
 - wer from jiwer
 - matplotlib
 - pandas
+- urllib3
+- vosk
+- pydub
 
 
 ## IDE Used
