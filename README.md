@@ -34,7 +34,7 @@ Below are the directory structure:
  ```
 1. The ```app_spelling``` consist of the API to check the spelling.
 2. The ```pronunciation``` consist the model and API to check the pronunciation.
-3. The ```pelling_dataset``` consist the script to get and process the dataset.
+3. The ```spelling_dataset``` consist the script to get and process the dataset.
 
 To clone and run this application, you'll neet git and [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
